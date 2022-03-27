@@ -1,0 +1,10 @@
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\bin\Debug\Nyajimmunitás.exe.config
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\bin\Debug\Nyajimmunitás.exe
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\bin\Debug\Nyajimmunitás.pdb
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.csproj.AssemblyReference.cache
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.Properties.Resources.resources
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.csproj.GenerateResource.cache
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.csproj.CoreCompileInputs.cache
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.exe
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.pdb
+D:\zozó\programozás\Nyajimmunitás\Nyajimmunitás\obj\Debug\Nyajimmunitás.Form1.resources
